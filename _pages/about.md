@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Ziyi Wang, I also go by the name Stacey. I am currently employed as a full-time research assistant in the Department of Automization at Tsinghua University, advised by Prof.[Gao Huang](https://www.gaohuang.net/). 
+Hello, my name is Ziyi Wang, I also go by the name Stacey. I am currently employed as a full-time research assistant in the Department of Automation at Tsinghua University, advised by Prof.[Gao Huang](https://www.gaohuang.net/). 
 
-I obtained my Bachelor of Science degree in Mathematics and Business Administration, concentrating in Big Data Analytics, from University of Orgeon in 2020. I further pursued a Master of Engineering degree in FinTech fron Duke Univeristy in 2023. **Meanwhile, I am actively seeking open CS/ECE PhD positions for Fall 2025 in North America.**
+I obtained my Bachelor of Science degree in Mathematics and Business Administration, concentrating in Big Data Analytics, from University of Orgeon in 2020. I further pursued a Master of Engineering degree in FinTech fron Duke University in 2023. **Meanwhile, I am actively seeking open CS/ECE PhD positions for Fall 2025 in North America.**
  
 My research interest is in Machine Learning with a focus on Deep Learning Model Architectures, Large Multimodal Models (LMM), Generative Models, and Computer Vision. 
 
